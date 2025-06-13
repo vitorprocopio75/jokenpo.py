@@ -56,4 +56,4 @@ while True :
            sys.exit()
         if evento.type == pygame.MOUSEBUTTONDOWN and estado == "agardando":
             pos_mouse = evento.pos
-            escolha_jogador = "pedra" 
+            escolha_jogador = "pedra" # terminar 
